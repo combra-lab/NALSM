@@ -323,11 +323,7 @@ class run_support:
         else:
             FULL_DATA_SET_IN = False
 
-        # PATH = '/common/users/vai9/CNAN/datasets/mnist.npz'
-        # (orig_x_train, y_train), (orig_x_test, y_test) = tf.keras.datasets.mnist.load_data(path=PATH)
-        # PATH = 'V:/CNAN/datasets/mnist.npz'
-        # (orig_x_train, y_train), (orig_x_test, y_test) = tf.contrib.keras.datasets.mnist.load_data(path=PATH)
-
+        
         PATH = '/common/users/vai9/CNAN/datasets/'
         names, data = sup.unpack_file(filename='fmnist.ds', dataPath=PATH)
 
