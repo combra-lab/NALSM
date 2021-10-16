@@ -1,0 +1,27 @@
+`GEN_NET_LIF.py` : contains initialization function for creating networks.  
+`high_lvl_build_network_funcs.py` : contains higher level functions for network construction.  
+`spatial_network_builder_lib.py` : contains lower level functions for network construction.  
+
+`LSM_APSTDP_CONSTRUCTOR_MNIST.py` : contains model construction and training functions for LSM_APSTDP model for MNIST.  
+`LSM_APSTDP_CONSTRUCTOR_N_MNIST.py` : contains model construction and training functions for LSM_APSTDP model for N-MNIST.  
+`LSM_STDP_CONSTRUCTOR_MNIST.py` : contains model construction and training functions for LSM_STDP model for MNIST.  
+`LSM_STDP_CONSTRUCTOR_N_MNIST.py` : contains model construction and training functions for LSM_STDP model for N-MNIST.  
+`NALSM_CONSTRUCTOR_MNIST.py` : contains model construction and training functions for NALSM and LSM models for MNIST.  
+`NALSM_CONSTRUCTOR_N_MNIST.py` : contains model construction and training functions for NALSM and LSM models for N-MNIST.  
+
+`NALSM_LIF_v1.py` : contains LIF neuron functions. This version used for MNIST.  
+`NALSM_LIF_v2.py` : contains LIF neuron functions. This version used for N-MNIST.  
+
+`NALSM_GEN_SUPPORT.py` : contains general support functions.  
+`NALSM_SIM_SUPPORT.py` : contains general support functions for training, mainly reading data.  
+`NALSM_PARALLEL_SAVE.py` : contains functions for saving data using parallel process.  
+
+`NALSM_ASTRO.py` : contains NALSM astrocyte functions.  
+`NALSM_STDP.py` : contains STDP functions for NALSM and LSM+STDP models.  
+`LSM_APSTDP_STDP.py` : contains AP-STDP functions for LSM+AP-STDP model.  
+`NALSM_OUTPUT_LAYER.py` : contains output layer initialization, training, and inference functions.  
+
+`NALSM_CONSTRUCTOR_MNIST_NOISE.py` : contains model construction and functions for noisy spike count generation for NALSM and LSM models.  
+`NALSM_CONSTRUCTOR_N_MNIST_NOISE.py` : contains model construction and functions for noisy spike count generation for NALSM and LSM model.  
+`LSM_APSTDP_CONSTRUCTOR_MNIST_NOISE.py` : contains model construction and functions for noisy spike count generation for LSM+AP_STDP model.  
+`LSM_APSTDP_CONSTRUCTOR_N_MNIST_NOISE.py` : contains model construction and functions for noisy spike count generation for LSM+AP_STDP model.  
