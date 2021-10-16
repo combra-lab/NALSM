@@ -154,6 +154,6 @@ Vladimir A. Ivanov and Konstantinos P. Michmizos. "Increasing Liquid State Machi
 	author = {Ivanov, Vladimir A. and Michmizos, Konstantinos P.},
 	title = {Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity},
 	year = {2021},
-	pages={1--10}
+	pages={1--10},
 	booktitle = {35th Conference on Neural Information Processing Systems (NeurIPS 2021)}
 	}
