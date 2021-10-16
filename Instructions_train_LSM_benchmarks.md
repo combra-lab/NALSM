@@ -39,6 +39,7 @@ To train NALSM model on Fashion-MNIST, enter the following command:
 
 All input prompts and output are the same as described above for run file `NALSM_RUN_MAIN_SIM_MNIST.py`.
 
+
 ## 2. LSM+STDP
 
 ### 2.1 MNIST
@@ -55,7 +56,9 @@ To train LSM+STDP model on N-MNIST, enter the following command:
 
 All input prompts and output are the same as described above in [Section 1.1](#11-mnist) for run file `NALSM_RUN_MAIN_SIM_MNIST.py`.
 
+
 ## 3. LSM
+
 ### 3.1 MNIST
 To train LSM model on MNIST, enter the following command: 
 
@@ -71,7 +74,9 @@ To train LSM model on N-MNIST, enter the following command:
 
 All input prompts and output are the same as described above for run file `LSM_RUN_MAIN_SIM_MNIST.py`.
 
+
 ## 4. LSM+AP_STDP
+
 ### 4.1 MNIST
 To train LSM+AP_STDP model on MNIST, enter the following command:
 
