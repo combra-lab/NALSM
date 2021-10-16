@@ -20,7 +20,7 @@ This code performs the following functions:
 4. [Evaluate trained model branching factor](#4-evaluate-model-branching-factor)
 5. [Evaluate model kernel quality](#5-evaluate-model-kernel-quality)
 
-Instructions for obtaining/setting up datasets can be accessed **here**.
+Instructions for obtaining/setting up datasets can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/datasets/Readme_datasets.md).
 
 Overview of all files can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/File_index.txt).
 
