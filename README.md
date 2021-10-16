@@ -22,7 +22,7 @@ This code performs the following functions:
 
 Instructions for obtaining/setting up datasets can be accessed **here**.
 
-Overview of all files can be accessed **here**.
+Overview of all files can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/File_index.txt).
 
 ### 1. Generate 3D Network
 
