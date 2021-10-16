@@ -73,7 +73,7 @@ To train NALSM model on Fashion-MNIST, enter the following command:
 All input prompts and output are the same as described above for run file `NALSM_RUN_MAIN_SIM_MNIST.py`.
 
 
-Instructions for training other benchmarked LSM models can be accessed **here**
+Instructions for training other benchmarked LSM models can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/Instructions_train_LSM_benchmarks.md).
 
 ### 3. Evaluate Trained Model Accuracy
 
@@ -143,7 +143,7 @@ The run file will prompt for inputs:
 The run file will print out the SP and AP metrics.
 
 
-Instructions for evaluating kernel quality for other benchmarked LSM models can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/Instructions_eval_kernel_quality_all_LSMs.md)
+Instructions for evaluating kernel quality for other benchmarked LSM models can be accessed [here](https://github.com/combra-lab/NALSM/blob/main/Instructions_eval_kernel_quality_all_LSMs.md).
 
 
 # Citation
