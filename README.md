@@ -20,9 +20,9 @@ This code performs the following functions:
 4. [Evaluate trained model branching factor](#4-evaluate-model-branching-factor)
 5. [Evaluate model kernel quality](#5-evaluate-model-kernel-quality)
 
-Instructions for obtaining/setting up datasets can be accessed [_**here**_](https://github.com/combra-lab/NALSM/blob/main/datasets/Readme_datasets.md).
+Instructions for obtaining/setting up datasets can be accessed [_here_](https://github.com/combra-lab/NALSM/blob/main/datasets/Readme_datasets.md).
 
-Overview of all files can be accessed [_**here**_](https://github.com/combra-lab/NALSM/blob/main/File_index.txt).
+Overview of all files can be accessed [_here_](https://github.com/combra-lab/NALSM/blob/main/File_index.txt).
 
 ### 1. Generate 3D Network
 
@@ -73,7 +73,7 @@ To train NALSM model on Fashion-MNIST, enter the following command:
 All input prompts and output are the same as described above for run file `NALSM_RUN_MAIN_SIM_MNIST.py`.
 
 
-Instructions for training other benchmarked LSM models can be accessed [_**here**_](https://github.com/combra-lab/NALSM/blob/main/Readme_train_LSM_benchmarks.md).
+Instructions for training other benchmarked LSM models can be accessed [_here_](https://github.com/combra-lab/NALSM/blob/main/Readme_train_LSM_benchmarks.md).
 
 ### 3. Evaluate Trained Model Accuracy
 
