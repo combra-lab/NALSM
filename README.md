@@ -156,4 +156,4 @@ The run file will prompt for inputs:
 The run file will print out the SP and AP metrics.
 
 
-Instructions for evaluating kernel quality for other benchmarked LSM models can be accessed [_**here**_](https://github.com/combra-lab/NALSM/blob/main/Readme_eval_kernel_quality_all_LSMs.md).
+Instructions for evaluating kernel quality for other benchmarked LSM models can be accessed [_here_](https://github.com/combra-lab/NALSM/blob/main/Readme_eval_kernel_quality_all_LSMs.md).
