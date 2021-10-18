@@ -8,7 +8,7 @@ This file contains instructions for evaluation of LSM kernel quality presented i
 
 
 Model liquid kernel quality was calculated from metrics:
-* SP: linear speration of liquid
+* SP: linear separation of liquid
 * AP: generalization of liquid
 
 which was done for both MNIST and N-MNIST datasets. To compute SP and AP metrics, first noisy spike counts must be generated for the AP metric, as follows. 
