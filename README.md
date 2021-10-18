@@ -4,6 +4,19 @@ This package is a Tensorflow implementation of the **N**euron-**A**strocyte **L*
 
 The paper has been accepted at NeurIPS 2021. The arXiv preprint is available **here**
 
+# Citation
+
+Vladimir A. Ivanov and Konstantinos P. Michmizos. "Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity." *35th Conference on Neural Information Processing Systems* (NeurIPS 2021).
+
+	@inproceedings{ivanov_2021,
+	author = {Ivanov, Vladimir A. and Michmizos, Konstantinos P.},
+	title = {Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity},
+	year = {2021},
+	pages={1--10},
+	booktitle = {35th Conference on Neural Information Processing Systems (NeurIPS 2021)}
+	}
+
+
 ## Software Installation
 
 * Python 3.6.9
@@ -144,16 +157,3 @@ The run file will print out the SP and AP metrics.
 
 
 Instructions for evaluating kernel quality for other benchmarked LSM models can be accessed [_**here**_](https://github.com/combra-lab/NALSM/blob/main/Readme_eval_kernel_quality_all_LSMs.md).
-
-
-# Citation
-
-Vladimir A. Ivanov and Konstantinos P. Michmizos. "Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity." *35th Conference on Neural Information Processing Systems* (NeurIPS 2021).
-
-	@inproceedings{ivanov_2021,
-	author = {Ivanov, Vladimir A. and Michmizos, Konstantinos P.},
-	title = {Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity},
-	year = {2021},
-	pages={1--10},
-	booktitle = {35th Conference on Neural Information Processing Systems (NeurIPS 2021)}
-	}
