@@ -2,7 +2,7 @@
 
 This package is a Tensorflow implementation of the **N**euron-**A**strocyte **L**iquid **S**tate **M**achine (**NALSM**) that introduces astrocyte-modulated STDP to the Liquid State Machine learning framework for improved accuracy performance and minimal tuning. 
 
-The paper has been accepted at NeurIPS 2021, available at [_here_](https://proceedings.neurips.cc/paper/2021/hash/d79c8788088c2193f0244d8f1f36d2db-Abstract.html).
+The paper has been accepted at NeurIPS 2021, available [_here_](https://proceedings.neurips.cc/paper/2021/hash/d79c8788088c2193f0244d8f1f36d2db-Abstract.html).
 
 # Citation
 
